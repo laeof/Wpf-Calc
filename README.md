@@ -1,6 +1,6 @@
 # Wpf-Calc
 
-Laboratory work to learn about Wpf graphical subsystem created on C# .Net Framework 4.7.2
+Practice work to learn about Wpf graphical subsystem created on C# .Net Framework 4.7.2
 
 Here is appearance
 
